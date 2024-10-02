@@ -1,1 +1,1 @@
-高频因子研报收集
+Your contribution is welcomed! Please open a new PR if you want to add more.
